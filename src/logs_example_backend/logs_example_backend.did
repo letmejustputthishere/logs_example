@@ -1,1 +1,1 @@
-service : { produce_logs : () -> (); sign : () -> (text) }
+service : { icrc : () -> (text); produce_logs : () -> (); sign : () -> (text) }
